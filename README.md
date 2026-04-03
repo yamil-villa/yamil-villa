@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Soy Yamil Villa, estudiante de Ingeniería en Sistemas Computacionales.  
-Me apasiona el desarrollo de aplicaciones web utilizando PHP, MySQL y JavaScript, así como el trabajo con bases y análisis de datos.  
-
-Estoy enfocado en crear soluciones útiles a problemas reales, mientras continúo aprendiendo y fortaleciendo mis habilidades.  
-Disfruto enfrentar nuevos retos y aplicar mis conocimientos en proyectos prácticos que aporten valor 🚀
+👤 Soy Yamil Villa, estudiante de Ingeniería en Sistemas Computacionales.  
+💻 Me apasiona el desarrollo de aplicaciones web utilizando HTML, CSS, JavaScript y React, así como el trabajo con tecnologías backend como PHP y MySQL.  
+📊 Estoy familiarizado con el manejo y análisis de datos utilizando Python, MongoDB (NoSQL) y SQL.
+🚀 Enfocado en crear soluciones útiles a problemas reales, mientras continúo aprendiendo y fortaleciendo mis habilidades.  
+🔥 Disfruto enfrentar nuevos retos y aplicar mis conocimientos en proyectos prácticos que aporten valor.
 <!--
 **yamil-villa/yamil-villa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
