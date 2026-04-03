@@ -5,12 +5,9 @@ Soy Yamil Villa, estudiante de Ingeniería en Sistemas Computacionales. Me apasi
 
 <p align="center">
   <img src="./imagen4.png" width="205" height="400"/>
-
   <img src="./imagen2.png" width="205" height="400"/>
-  
-  <img src="./imagen3.png" width="205" height="400"/>
   <img src="./imagen5.png" width="205" height="400"/>
-  
+  <img src="./imagen3.png" width="205" height="400"/>
 </p>
 
 <!--
