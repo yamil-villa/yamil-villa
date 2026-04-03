@@ -6,7 +6,7 @@ Soy Yamil Villa, estudiante de Ingeniería en Sistemas Computacionales. Me apasi
 <p align="center">
   <img src="./imagen1.jpeg" width="250"/>
   <img src="./imagen2.jpeg" width="250"/>
-  <img src="./imagen3.jpeg" width="250"/>
+  <img src="./imagen4.jpeg" width="250"/>
 </p>
 
 <!--
