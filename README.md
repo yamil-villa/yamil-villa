@@ -2,7 +2,7 @@
 
 Soy Yamil Villa, estudiante de Ingeniería en Sistemas Computacionales. Me apasiona el desarrollo de aplicaciones web utilizando HTML, CSS, JavaScript y React, así como el trabajo con tecnologías backend como PHP y MySQL. Estoy familiarizado con el manejo y análisis de datos utilizando Python, MongoDB (NoSQL) y SQL. Actualmente enfocado en crear soluciones útiles a problemas reales, mientras continúo aprendiendo y fortaleciendo mis habilidades. Disfruto enfrentar nuevos retos y aplicar mis conocimientos en proyectos prácticos que aporten valor 🚀
 
-### 🛠️ Stack Tecnológico
+### 💻 Stack Tecnológico
 
 <div align="center">
 
