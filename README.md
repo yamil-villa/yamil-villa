@@ -7,6 +7,12 @@ Soy Yamil Villa, estudiante de Ingeniería en Sistemas Computacionales. Me apasi
 </p>
 <!--
 
+### 🛠️ Stack Tecnológico
+
+| Frontend | Backend & DB | Data Science |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,html,css,j" /> | <img src="https://skillicons.dev/icons?i=php,mysql,mongodb,cassandra" /> | <img src="https://skillicons.dev/icons?i=python,pandas" /> |
+
 
 **yamil-villa/yamil-villa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
