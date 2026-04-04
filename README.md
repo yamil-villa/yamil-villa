@@ -3,11 +3,13 @@
 Soy Yamil Villa, estudiante de Ingeniería en Sistemas Computacionales. Me apasiona el desarrollo de aplicaciones web utilizando HTML, CSS, JavaScript y React, así como el trabajo con tecnologías backend como PHP y MySQL. Estoy familiarizado con el manejo y análisis de datos utilizando Python, MongoDB (NoSQL) y SQL. Actualmente enfocado en crear soluciones útiles a problemas reales, mientras continúo aprendiendo y fortaleciendo mis habilidades. Disfruto enfrentar nuevos retos y aplicar mis conocimientos en proyectos prácticos que aporten valor 🚀
 
 ### 🛠️ Stack Tecnológico
-| | | | | | | | | | | | | | | | | | | | |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=css" width="40"/> | <img src="https://skillicons.dev/icons?i=js" width="40"/> | <img src="https://skillicons.dev/icons?i=react" width="40"/> | <img src="https://skillicons.dev/icons?i=php" width="40"/> | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> | <img src="https://skillicons.dev/icons?i=java" width="40"/> | <img src="https://skillicons.dev/icons?i=python" width="40"/> | | | | | | | | | | | |
-| | | | | | | | | | | | | | | | | | | | |
-| | | | | | | | | | | | | | | | | | | | | 
+<p align="center">
+
+| HTML | CSS | JavaScript | React | PHP | MySQL | MongoDB | Java | Python |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=html" width="50"/> | <img src="https://skillicons.dev/icons?i=css" width="50"/> | <img src="https://skillicons.dev/icons?i=js" width="50"/> | <img src="https://skillicons.dev/icons?i=react" width="50"/> | <img src="https://skillicons.dev/icons?i=php" width="50"/> | <img src="https://skillicons.dev/icons?i=mysql" width="50"/> | <img src="https://skillicons.dev/icons?i=mongodb" width="50"/> | <img src="https://skillicons.dev/icons?i=java" width="50"/> | <img src="https://skillicons.dev/icons?i=python" width="50"/> |
+
+</p>
 
 <p align="center">
   <img src="./fondo.png" width="100%" height="190"/>
