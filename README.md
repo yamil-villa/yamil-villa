@@ -9,7 +9,6 @@ Soy Yamil Villa, estudiante de Ingeniería en Sistemas Computacionales. Me apasi
 | | | | | | | | | | | | | | | | | | | | |
 | | | | | | | | | | | | | | | | | | | | |
 
-
 <p align="center">
   <img src="./fondo.png" width="100%" height="190"/>
 </p>
