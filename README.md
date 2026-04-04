@@ -4,11 +4,20 @@ Soy Yamil Villa, estudiante de Ingeniería en Sistemas Computacionales. Me apasi
 
 ### 🛠️ Stack Tecnológico
 
-
-| Frontend | Backend & DB | Data Science |
-| :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=react,html,css,js" /> | <img src="https://skillicons.dev/icons?i=php,mysql,mongodb,cassandra" /> | <img src="https://skillicons.dev/icons?i=python,pandas" /> |
-
+| | | | |
+| :---: | :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=html" /> | <img src="https://skillicons.dev/icons?i=css" /> | <img src="https://skillicons.dev/icons?i=js" /> | <img src="https://skillicons.dev/icons?i=react" /> |
+| <img src="https://skillicons.dev/icons?i=php" /> | <img src="https://skillicons.dev/icons?i=mysql" /> | <img src="https://skillicons.dev/icons?i=mongodb" /> | <img src="https://skillicons.dev/icons?i=java" /> |
+| <img src="https://skillicons.dev/icons?i=python" /> | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
+| | | | |
 
 <p align="center">
   <img src="./fondo.png" width="100%" height="190"/>
